@@ -4,13 +4,12 @@
 
 ![ZAPSAS Logo](https://img.shields.io/badge/ZAPSAS-Platform-8261ee?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkw0IDIySDIwTDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==)
 
-**Your complete ecosystem for productivity tools, engaging games, innovative projects, and educational content.**
+**Your complete ecosystem for engaging games, innovative projects, and educational content.**
 
 [🌐 Visit Website](https://zapsas.tech) | [📧 Contact](mailto:contact@zapsas.tech) | [📚 Documentation](https://zapsas.tech#documentation)
 
 [![Status](https://img.shields.io/badge/Status-Live-success?style=flat-square)](https://zapsas.tech)
-[![Last Updated](https://img.shields.io/badge/Updated-January%208%2C%202026-blue?style=flat-square)](#)
-[![Tools](https://img.shields.io/badge/Tools-8-orange?style=flat-square)](https://tools.zapsas.tech)
+[![Last Updated](https://img.shields.io/badge/Updated-January%2012%2C%202026-blue?style=flat-square)](#)
 [![Games](https://img.shields.io/badge/Games-6-green?style=flat-square)](https://play.zapsas.tech)
 [![Labs](https://img.shields.io/badge/Labs-2%20Projects-purple?style=flat-square)](https://labs.zapsas.tech)
 [![Explore](https://img.shields.io/badge/Explore-1007%20Articles-cyan?style=flat-square)](https://explore.zapsas.tech)
@@ -20,8 +19,8 @@
 
 ---
 
-![ZAPSAS Home Page](https://zapsas.tech/data/image-gallery/zapsas-home-page.jpg)
-*ZAPSAS Main Hub - Your gateway to tools, games, labs, and knowledge*
+![ZAPSAS Home Page](https://assets.zapsas.tech/image-gallery/zapsas-home-page.jpg)
+*ZAPSAS Main Hub - Your gateway to games, labs, and knowledge*
 
 ---
 
@@ -29,7 +28,6 @@
 
 - [About ZAPSAS](#-about-zapsas)
 - [Platform Structure](#%EF%B8%8F-platform-structure)
-- [Tools Section](#%EF%B8%8F-tools-section)
 - [Games Section](#-games-section)
 - [Labs Section](#-labs-section)
 - [Explore Section](#-explore-section)
@@ -43,16 +41,15 @@
 
 ## 🎯 About ZAPSAS
 
-**ZAPSAS** is a comprehensive digital platform that brings together productivity tools, browser-based games, innovative web applications, and educational articles - all in one place. Built with modern web technologies, ZAPSAS provides a seamless, free, and accessible experience across all devices.
+**ZAPSAS** is a comprehensive digital platform that brings together browser-based games, innovative AI-powered projects, and educational articles - all in one place. Built with modern web technologies, ZAPSAS provides a seamless, free, and accessible experience across all devices.
 
-Whether you're a student looking for productivity tools, a developer seeking technical knowledge, someone curious about everyday life questions, or just want to play casual games - ZAPSAS has something for everyone. Our platform is designed with simplicity and user experience in mind, ensuring that all features are easy to access and use without any technical knowledge required.
+Whether you're a developer seeking technical knowledge, someone curious about everyday life questions, or just want to play casual games - ZAPSAS has something for everyone. Our platform is designed with simplicity and user experience in mind, ensuring that all features are easy to access and use without any technical knowledge required.
 
-![About Us Page](https://zapsas.tech/data/image-gallery/zapsas-about-us-page.jpg)
+![About Us Page](https://assets.zapsas.tech/image-gallery/zapsas-about-us-page.jpg)
 *Learn about ZAPSAS mission and vision*
 
 ### 🌟 What We Offer
 
-- **8 Free Online Tools** - Productivity utilities for everyday tasks
 - **6 Browser Games** - Classic and modern games, no downloads required
 - **2 Lab Projects** - Innovative AI-powered applications
 - **1007 Explore Articles** - Lifestyle, pets, psychology, and practical knowledge
@@ -69,106 +66,11 @@ ZAPSAS is organized into five specialized domains, each serving a unique purpose
 | Domain | Purpose | Content | Link |
 |--------|---------|---------|------|
 | **Main Site** | Central hub & navigation | Platform overview, all section access | [zapsas.tech](https://zapsas.tech) |
-| **Tools** | Productivity utilities | 8 online tools for daily tasks | [tools.zapsas.tech](https://tools.zapsas.tech) |
 | **Play** | Entertainment | 6 browser-based games | [play.zapsas.tech](https://play.zapsas.tech) |
 | **Labs** | AI Projects | 2 innovative AI-powered projects | [labs.zapsas.tech](https://labs.zapsas.tech) |
 | **Explore** | Lifestyle & Knowledge | 1007 articles on pets, lifestyle, psychology | [explore.zapsas.tech](https://explore.zapsas.tech) |
 | **Learn** | Educational content | 174 tech articles on programming & development | [learn.zapsas.tech](https://learn.zapsas.tech) |
 | **Contact** | Get in touch | Contact form, email, support | [zapsas.tech/#contact](https://zapsas.tech/#contact) |
-
----
-
-## 🛠️ Tools Section
-
-**Access:** [tools.zapsas.tech](https://tools.zapsas.tech)
-
-Free online tools designed to boost your productivity and simplify everyday tasks. All tools run entirely in your browser - no installations, no sign-ups required. Perfect for students, professionals, developers, and anyone who needs quick access to essential productivity utilities.
-
-Our tools are built with privacy in mind - all processing happens locally in your browser, meaning your data never leaves your device. Fast, secure, and completely free to use without any limitations.
-
-![ZAPSAS Tools Home](https://zapsas.tech/data/image-gallery/zapsas-tools-home-page.jpg)
-*Explore 8 productivity tools for everyday tasks*
-
-![Tools Collection](https://zapsas.tech/data/image-gallery/zapsas-tools-section.jpg)
-*Professional tools with intuitive interfaces*
-
-![Image Compressor Tool](https://zapsas.tech/data/image-gallery/zapsas-tools-image-compressor-dashboard.jpg)
-*Image Compressor - Optimize images without quality loss*
-
-![Color Picker Tool](https://zapsas.tech/data/image-gallery/zapsas-tools-color-picker-dashboard.jpg)
-*Color Picker - Perfect colors for your designs*
-
-### Available Tools
-
-#### 1. PDF Converter
-Convert documents to PDF format with ease.
-
-**Features:** Multi-format support, batch conversion, quality preservation
-
-**[Launch Tool →](https://tools.zapsas.tech/pdf-converter)**
-
----
-
-#### 2. Image Compressor
-Optimize and compress images without losing quality.
-
-**Features:** Multiple formats (JPG, PNG, WebP), adjustable quality, batch processing
-
-**[Launch Tool →](https://tools.zapsas.tech/image-compressor)**
-
----
-
-#### 3. Code Formatter
-Format and beautify your code automatically.
-
-**Features:** Multiple languages (JS, Python, HTML, CSS, JSON), syntax highlighting
-
-**[Launch Tool →](https://tools.zapsas.tech/code-formatter)**
-
----
-
-#### 4. Text Converter
-Transform text cases and formats instantly.
-
-**Features:** Uppercase, lowercase, capitalize, reverse, word count
-
-**[Launch Tool →](https://tools.zapsas.tech/text-converter)**
-
----
-
-#### 5. Color Picker
-Find perfect color combinations for your designs.
-
-**Features:** Hex/RGB/HSL conversion, palette generator, accessibility checker
-
-**[Launch Tool →](https://tools.zapsas.tech/color-picker)**
-
----
-
-#### 6. QR Generator
-Create custom QR codes for any purpose.
-
-**Features:** URL encoding, custom colors, download options, error correction
-
-**[Launch Tool →](https://tools.zapsas.tech/qr-generator)**
-
----
-
-#### 7. JSON Formatter
-Validate and format JSON data with ease.
-
-**Features:** Beautify, minify, validate, syntax highlighting, error detection
-
-**[Launch Tool →](https://tools.zapsas.tech/json-formatter)**
-
----
-
-#### 8. Base64 Encoder
-Encode and decode Base64 strings.
-
-**Features:** Bi-directional conversion, file support, real-time processing
-
-**[Launch Tool →](https://tools.zapsas.tech/base64-encoder)**
 
 ---
 
@@ -180,13 +82,13 @@ Enjoy classic and modern browser games - no downloads, no registration, just pur
 
 Each game features smooth animations, intuitive controls, and high score tracking to keep you engaged. Whether you're a casual gamer or a competitive player, our collection of timeless classics and modern twists will keep you entertained for hours.
 
-![ZAPSAS Games Main](https://zapsas.tech/data/image-gallery/zapsas-games-main-page.jpg)
+![ZAPSAS Games Main](https://assets.zapsas.tech/image-gallery/zapsas-games-main-page.jpg)
 *Gaming hub with 6 browser-based games*
 
-![Games List](https://zapsas.tech/data/image-gallery/zapsas-games-list-page.jpg)
+![Games List](https://assets.zapsas.tech/image-gallery/zapsas-games-list-page.jpg)
 *Choose from classic and modern games*
 
-![Flappy Bird Game](https://zapsas.tech/data/image-gallery/zapsas-games-flappy-bird-dashboard.jpg)
+![Flappy Bird Game](https://assets.zapsas.tech/image-gallery/zapsas-games-flappy-bird-dashboard.jpg)
 *Flapper-Flying Challenge - Test your reflexes and timing*
 
 ### Available Games
@@ -262,12 +164,12 @@ Classic strategy game for two players.
 
 Innovative AI-powered applications that solve real-world problems. Each project in Labs showcases modern development practices, cutting-edge technology, and practical solutions for everyday challenges.
 
-Our Labs section is where we experiment with AI technologies, including OpenAI's GPT models, to create tools that enhance productivity and creativity. All projects are free to use and demonstrate the power of combining traditional web development with artificial intelligence.
+Our Labs section is where we experiment with AI technologies, including OpenAI's GPT models, to create applications that enhance productivity and creativity. All projects are free to use and demonstrate the power of combining traditional web development with artificial intelligence.
 
-![ZAPSAS Labs Home](https://zapsas.tech/data/image-gallery/zapsas-projects-home-page.jpg)
+![ZAPSAS Labs Home](https://assets.zapsas.tech/image-gallery/zapsas-projects-home-page.jpg)
 *AI-powered applications solving real problems*
 
-![AI Resume Builder](https://zapsas.tech/data/image-gallery/zapsas-projects-resume-builder-dashboard.jpg)
+![AI Resume Builder](https://assets.zapsas.tech/image-gallery/zapsas-projects-resume-builder-dashboard.jpg)
 *AI-Powered Resume Builder - Create professional resumes with AI assistance*
 
 ### Available Projects
@@ -2812,7 +2714,7 @@ Prefer email? Contact us directly at:
 
 ### 💬 What You Can Contact Us About
 
-- **Technical Support** - Help with tools, games, or platform issues
+- **Technical Support** - Help with games, labs, or platform issues
 - **Bug Reports** - Found a problem? Let us know with details
 - **Feature Requests** - Suggest new features or improvements
 - **Business Inquiries** - Partnerships, collaborations, sponsorships
@@ -2842,7 +2744,7 @@ Prefer email? Contact us directly at:
 | **Dark Mode** | Toggle between light and dark themes across all sections |
 | **Responsive Design** | Optimized for desktop, tablet, and mobile devices |
 | **Fast Loading** | Optimized performance with lazy loading and code splitting |
-| **Search Functionality** | Quickly find tools, games, projects, and articles |
+| **Search Functionality** | Quickly find games, labs, and articles |
 | **No Registration** | Access everything without creating an account |
 | **Privacy-First** | GDPR compliant, minimal data collection |
 | **Cross-Platform** | Works on all modern browsers (Chrome, Firefox, Safari, Edge) |
@@ -2951,69 +2853,64 @@ The ZAPSAS team is committed to:
 ### 📅 Upcoming Features
 
 #### Q1 2026
-- [ ] **User Accounts System**
-  - Save preferences and settings
-  - Bookmark favorite articles
-  - Track game high scores
-  - Project history and saved work
+- [ ] **Platform improvements**
+  - Fix critical bugs and stability issues
+  - Performance & load-time optimizations
+  - Improve UX/UI and accessibility (WCAG)
+  - Enhance security, rate limiting, and monitoring
 
-- [ ] **Advanced Tools**
-  - Video Converter
-  - Audio Editor
-  - Markdown Editor
-  - Password Generator
+- [ ] **Quality content**
+  - Editorial review and fact-checking pipeline
+  - Add curated articles and standardized code examples
+  - Improve tagging, metadata, and search relevance
 
-- [ ] **New Games**
-  - Chess Game
-  - Minesweeper
-  - Sudoku Puzzle
-  - Word Search
+- [ ] **More**
+  - Better onboarding, docs, and tutorials
+  - Community features: comments, forums, code snippets
+  - API access and developer documentation
 
-#### Q2 2026
-- [ ] **API Access**
-  - Public API for tools
-  - Developer documentation
-  - API key management
-  - Usage analytics
+- [ ] **Content Expansion**
+  - Add 200+ articles, 50+ tutorials and curated code templates
+  - Implement editorial review, standardized examples, and taggingation
 
-- [ ] **Mobile Apps**
-  - iOS app (React Native)
-  - Android app (React Native)
-  - Offline functionality
-  - Push notifications
+- [ ] **Contact Form Improvements**ent
+  - Enhanced validation, captcha/honeypot, and category-specific fields  - Usage analytics
+  - Auto-response templates, CRM integration, and SLA routing
 
-- [ ] **Community Features**
-  - Comments on articles
-  - Code snippet sharing
-  - User forums
+- [ ] **Community & UX**
+  - Comments with moderation, shareable code snippets, forums, project showcasees**
+  - Improved onboarding, search relevance, and metadata
+
+- [ ] **Accessibility & Localization**t sharing
+  - WCAG updates, keyboard navigation, screen-reader checks
+  - Rollout Spanish & French localization
+
+- [ ] **Developer Features & Analytics**
+  - Optional public API (docs, API key management, rate limits)
+  - Usage analytics, content performance dashboard, webhooks and integrations
+
+- [ ] **Miscellaneous**
+  - SEO improvements, performance tuning, monitoring and error reporting
   - Project showcase
 
 #### Q3 2026 & Beyond
 - [ ] **AI Integration**
   - AI-powered writing assistant
   - Smart code completion
-  - Image generation tools
   - Chatbot support
 
-- [ ] **Premium Features** (Optional)
+- [ ] **Premium Features** 
   - Advanced analytics
   - Priority support
   - Increased storage limits
-  - Ad-free experience
 
-- [ ] **Educational Platform**
-  - Interactive coding tutorials
-  - Video courses
-  - Certification programs
-  - Learning paths
+
 
 ### 🌱 Content Expansion
 
 - **Articles:** Target 1500+ articles by end of 2026
-- **Tools:** Expand to 20+ tools across more categories
 - **Games:** Add 10+ new games including multiplayer options
-- **Lab Projects:** Develop 15+ innovative AI-powered applications
-- **Languages:** Multi-language support (Spanish, French, German)
+- **Lab Projects:** Develop 5+ innovative AI-powered applications
 
 ---
 
@@ -3063,13 +2960,12 @@ Found a bug or issue? Help us improve:
 
 | Metric | Value |
 |--------|-------|
-| **Total Tools** | 8 |
 | **Total Games** | 6 |
 | **Lab Projects** | 2 |
 | **Explore Articles** | 1007 |
 | **Learn Articles** | 174 |
 | **Total Content** | 1181 articles |
-| **Domains** | 6 (Main + 5 subdomains) |
+| **Domains** | 6 (Main + 4 subdomains) |
 | **Languages Supported** | English (more coming) |
 | **Launch Date** | 2024 |
 | **Last Updated** | January 8, 2026 |
@@ -3081,7 +2977,7 @@ Found a bug or issue? Help us improve:
 
 Special thanks to:
 - **Users & Visitors** - Your feedback drives improvements
-- **Open Source Community** - For amazing libraries and tools
+- **Open Source Community** - For amazing libraries
 - **Beta Testers** - For helping identify and fix issues
 - **Content Reviewers** - For ensuring article quality
 
@@ -3090,7 +2986,7 @@ Special thanks to:
 ## 📜 License & Usage
 
 ### Platform Usage
-- All tools, games, and articles are **free to use**
+- All labs, games, and articles are **free to use**
 - No attribution required for personal use
 - Commercial use requires permission
 
@@ -3100,7 +2996,7 @@ Special thanks to:
 - Redistribution of full articles requires permission
 
 ### Code
-- Projects and tools source code rights reserved
+- Labs source code rights reserved
 - Educational use and learning encouraged
 - Contact for collaboration opportunities
 
@@ -3117,7 +3013,7 @@ Special thanks to:
 ✅ **Responsive Design** - Perfect on any device  
 ✅ **Fast & Reliable** - Optimized performance  
 ✅ **Beginner-Friendly** - Easy to use and understand  
-✅ **Professional Grade** - Enterprise-quality tools  
+✅ **Professional Grade** - Enterprise-quality labs
 
 ---
 
@@ -3125,7 +3021,6 @@ Special thanks to:
 
 ### Main Sections
 - 🏠 [Home](https://zapsas.tech)
-- 🛠️ [Tools](https://tools.zapsas.tech)
 - 🎮 [Play Games](https://play.zapsas.tech)
 - 🧪 [Labs](https://labs.zapsas.tech)
 - 🌍 [Explore](https://explore.zapsas.tech)
