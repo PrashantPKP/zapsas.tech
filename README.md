@@ -6,7 +6,7 @@
 
 **Your complete ecosystem for engaging games, innovative projects, and educational content.**
 
-[🌐 Visit Website](https://zapsas.tech) | [📧 Contact](mailto:contact@zapsas.tech) | [📚 Documentation](https://zapsas.tech/documentation)
+[🌐 Visit Website](https://zapsas.tech) | [📧 Contact](mailto:contact@zapsas.tech) | [📚 Documentation](https://zapsas.tech/documentation) | [💼 LinkedIn](https://www.linkedin.com/company/zapsas)
 
 [![Status](https://img.shields.io/badge/Status-Live-success?style=flat-square)](https://zapsas.tech)
 [![Last Updated](https://img.shields.io/badge/Updated-January%2012%2C%202026-blue?style=flat-square)](#)
@@ -2933,6 +2933,10 @@ The ZAPSAS team is committed to:
 
 ### 📱 Social Media
 
+**Company:**
+- **LinkedIn:** [ZAPSAS Company Page](https://www.linkedin.com/company/zapsas)
+
+**Founder:**
 - **Twitter:** [@Prashant_PKP_](https://twitter.com/Prashant_PKP_)
 - **LinkedIn:** [Prashant Parshuramkar](https://www.linkedin.com/in/prashantpkp/)
 - **GitHub:** [@PrashantPKP](https://github.com/PrashantPKP)
